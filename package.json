@@ -1,0 +1,10 @@
+{
+  "name": "cube-dotenv",
+  "version": "0.1.0",
+  "description": "Manages your .env along with a .env.local",
+  "main": "index.js",
+  "repository": "https://github.com/cube-inc/cube-dotenv",
+  "author": "Fred Gomez",
+  "license": "MIT",
+  "private": false
+}
